@@ -15,7 +15,7 @@
             "last_commit": "2026-07-25T07:00:20Z",
             "owner": "MunGell",
             "repo": "awesome-for-beginners",
-            "stars": 88670
+            "stars": 88692
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-12T19:22:45Z",
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20864
+            "stars": 20868
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2025-06-13T01:52:26Z",
             "owner": "alirezadir",
             "repo": "Production-Level-Deep-Learning",
-            "stars": 4659
+            "stars": 4658
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-07-22T09:29:05Z",
             "owner": "datawhalechina",
             "repo": "competition-baseline",
-            "stars": 4757
+            "stars": 4758
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2024-11-21T14:45:11Z",
             "owner": "visenger",
             "repo": "awesome-mlops",
-            "stars": 14161
+            "stars": 14162
           }
         },
         {
@@ -132,10 +132,10 @@
             "archived": false,
             "id": 21872392,
             "language": "Python",
-            "last_commit": "2026-08-21T10:11:51Z",
+            "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74142
+            "stars": 74148
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-20T14:14:49Z",
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23731
+            "stars": 23729
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 542539
+            "stars": 542733
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2023-05-04T12:49:34Z",
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 70634
+            "stars": 70651
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-07-07T17:42:10Z",
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83169
+            "stars": 83174
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2026-02-08T17:13:47Z",
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17552
+            "stars": 17551
           }
         },
         {
@@ -300,7 +300,7 @@
             "last_commit": "2024-07-18T03:39:29Z",
             "owner": "FavioVazquez",
             "repo": "ds-cheatsheets",
-            "stars": 16329
+            "stars": 16330
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2025-09-18T16:46:19Z",
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6507
+            "stars": 6508
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2026-08-05T18:42:59Z",
             "owner": "JoseDeFreitas",
             "repo": "awesome-youtubers",
-            "stars": 7747
+            "stars": 7749
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28804
+            "stars": 28807
           }
         },
         {
@@ -375,7 +375,7 @@
             "last_commit": "2026-08-15T08:12:01Z",
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16118
+            "stars": 16126
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2023-03-13T16:28:22Z",
             "owner": "NirantK",
             "repo": "awesome-project-ideas",
-            "stars": 9286
+            "stars": 9288
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2024-01-18T13:29:44Z",
             "owner": "terryum",
             "repo": "awesome-deep-learning-papers",
-            "stars": 26179
+            "stars": 26180
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2024-04-03T12:20:23Z",
             "owner": "jobbole",
             "repo": "awesome-machine-learning-cn",
-            "stars": 4483
+            "stars": 4484
           }
         },
         {
@@ -450,7 +450,7 @@
             "last_commit": "2019-08-14T03:04:28Z",
             "owner": "INTERMT",
             "repo": "Awesome-PyTorch-Chinese",
-            "stars": 4769
+            "stars": 4770
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2024-07-25T00:51:28Z",
             "owner": "PaddlePaddle",
             "repo": "awesome-DeepLearning",
-            "stars": 3647
+            "stars": 3648
           }
         },
         {
@@ -555,7 +555,7 @@
             "last_commit": "2024-08-17T12:31:20Z",
             "owner": "aladdinpersson",
             "repo": "Machine-Learning-Collection",
-            "stars": 8488
+            "stars": 8489
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395135
+            "stars": 395177
           }
         },
         {
@@ -621,7 +621,7 @@
             "last_commit": "2026-06-28T14:22:34Z",
             "owner": "xinghaochen",
             "repo": "awesome-hand-pose-estimation",
-            "stars": 3387
+            "stars": 3388
           }
         },
         {
@@ -786,7 +786,7 @@
             "last_commit": "2022-11-27T13:18:32Z",
             "owner": "floodsung",
             "repo": "Deep-Learning-Papers-Reading-Roadmap",
-            "stars": 39549
+            "stars": 39547
           }
         },
         {
@@ -831,7 +831,7 @@
             "last_commit": "2023-10-06T18:30:38Z",
             "owner": "hindupuravinash",
             "repo": "the-gan-zoo",
-            "stars": 14690
+            "stars": 14691
           }
         },
         {
@@ -981,7 +981,7 @@
             "last_commit": "2023-05-13T17:00:12Z",
             "owner": "jinwchoi",
             "repo": "awesome-action-recognition",
-            "stars": 4015
+            "stars": 4016
           }
         },
         {
@@ -1101,7 +1101,7 @@
             "last_commit": "2023-02-09T07:02:58Z",
             "owner": "ChanChiChoi",
             "repo": "awesome-Face_Recognition",
-            "stars": 4754
+            "stars": 4755
           }
         },
         {
@@ -1206,7 +1206,7 @@
             "last_commit": "2023-05-19T04:34:48Z",
             "owner": "Yochengliu",
             "repo": "awesome-point-cloud-analysis",
-            "stars": 4218
+            "stars": 4219
           }
         },
         {
@@ -1221,7 +1221,7 @@
             "last_commit": "2024-08-14T05:47:25Z",
             "owner": "hua1995116",
             "repo": "awesome-ai-painting",
-            "stars": 11786
+            "stars": 11787
           }
         },
         {
@@ -1437,7 +1437,7 @@
             "last_commit": "2019-01-29T11:21:37Z",
             "owner": "SophonPlus",
             "repo": "ChineseNlpCorpus",
-            "stars": 6593
+            "stars": 6594
           }
         },
         {
@@ -1467,7 +1467,7 @@
             "last_commit": "2024-05-10T07:38:24Z",
             "owner": "fighting41love",
             "repo": "funNLP",
-            "stars": 82638
+            "stars": 82652
           }
         },
         {
@@ -1557,7 +1557,7 @@
             "last_commit": "2026-08-18T21:35:47Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18926
+            "stars": 18930
           }
         },
         {
@@ -1602,7 +1602,7 @@
             "last_commit": "2021-04-23T09:28:48Z",
             "owner": "Separius",
             "repo": "awesome-sentence-embedding",
-            "stars": 2288
+            "stars": 2289
           }
         },
         {
@@ -1617,7 +1617,7 @@
             "last_commit": "2023-07-27T02:54:52Z",
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7925
+            "stars": 7924
           }
         },
         {
@@ -1692,7 +1692,7 @@
             "last_commit": "2021-03-11T11:20:57Z",
             "owner": "husthuke",
             "repo": "awesome-knowledge-graph",
-            "stars": 5150
+            "stars": 5149
           }
         },
         {
@@ -1782,7 +1782,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27280
+            "stars": 27282
           }
         },
         {
@@ -1797,7 +1797,7 @@
             "last_commit": "2026-03-11T20:09:13Z",
             "owner": "dair-ai",
             "repo": "Prompt-Engineering-Guide",
-            "stars": 77750
+            "stars": 77767
           }
         },
         {
@@ -1824,10 +1824,10 @@
             "archived": false,
             "id": 574523116,
             "language": "HTML",
-            "last_commit": "2026-08-24T03:24:40Z",
+            "last_commit": "2026-08-25T03:21:48Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 167849
+            "stars": 167871
           }
         },
         {
@@ -1842,7 +1842,7 @@
             "last_commit": "2026-04-28T10:52:14Z",
             "owner": "PlexPt",
             "repo": "awesome-chatgpt-prompts-zh",
-            "stars": 61786
+            "stars": 61793
           }
         },
         {
@@ -1872,7 +1872,7 @@
             "last_commit": "2025-06-04T23:58:00Z",
             "owner": "dalinvip",
             "repo": "Awesome-ChatGPT",
-            "stars": 4189
+            "stars": 4190
           }
         },
         {
@@ -1917,7 +1917,7 @@
             "last_commit": "2024-03-18T13:30:43Z",
             "owner": "radi-cho",
             "repo": "awesome-gpt4",
-            "stars": 2227
+            "stars": 2228
           }
         },
         {
@@ -1977,7 +1977,7 @@
             "last_commit": "2025-03-11T09:51:42Z",
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12205
+            "stars": 12206
           }
         },
         {
@@ -1992,7 +1992,7 @@
             "last_commit": "2026-08-11T04:36:24Z",
             "owner": "kyrolabs",
             "repo": "awesome-langchain",
-            "stars": 9507
+            "stars": 9508
           }
         },
         {
@@ -2067,7 +2067,7 @@
             "last_commit": "2026-05-10T05:03:06Z",
             "owner": "AiHubCN",
             "repo": "Awesome-Chinese-LLM",
-            "stars": 22752
+            "stars": 22751
           }
         },
         {
@@ -2127,7 +2127,7 @@
             "last_commit": "2023-11-28T09:41:28Z",
             "owner": "Zjh-819",
             "repo": "LLMDataHub",
-            "stars": 3412
+            "stars": 3411
           }
         },
         {
@@ -2157,7 +2157,7 @@
             "last_commit": "2026-08-22T04:01:54Z",
             "owner": "Shubhamsaboo",
             "repo": "awesome-llm-apps",
-            "stars": 133887
+            "stars": 133972
           }
         },
         {
@@ -2172,7 +2172,7 @@
             "last_commit": "2026-07-05T17:59:07Z",
             "owner": "pathwaycom",
             "repo": "llm-app",
-            "stars": 58995
+            "stars": 58997
           }
         },
         {
@@ -2202,7 +2202,7 @@
             "last_commit": "2026-01-26T01:46:37Z",
             "owner": "eosphoros-ai",
             "repo": "Awesome-Text2SQL",
-            "stars": 3744
+            "stars": 3745
           }
         },
         {
@@ -2247,7 +2247,7 @@
             "last_commit": "2026-04-20T00:57:27Z",
             "owner": "atfortes",
             "repo": "Awesome-LLM-Reasoning",
-            "stars": 3675
+            "stars": 3676
           }
         },
         {
@@ -2277,7 +2277,7 @@
             "last_commit": "2026-05-21T09:12:50Z",
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5919
+            "stars": 5920
           }
         },
         {
@@ -2289,10 +2289,10 @@
             "archived": false,
             "id": 788768107,
             "language": null,
-            "last_commit": "2026-08-14T15:54:28Z",
+            "last_commit": "2026-08-25T04:54:43Z",
             "owner": "WangRongsheng",
             "repo": "awesome-LLM-resources",
-            "stars": 8866
+            "stars": 8869
           }
         },
         {
@@ -2442,7 +2442,7 @@
             "last_commit": "2025-02-18T13:48:42Z",
             "owner": "imaurer",
             "repo": "awesome-llm-json",
-            "stars": 2173
+            "stars": 2172
           }
         },
         {
@@ -2457,7 +2457,7 @@
             "last_commit": "2026-05-20T07:33:12Z",
             "owner": "codefuse-ai",
             "repo": "Awesome-Code-LLM",
-            "stars": 3430
+            "stars": 3431
           }
         },
         {
@@ -2502,7 +2502,7 @@
             "last_commit": "2024-07-21T17:56:50Z",
             "owner": "fr0gger",
             "repo": "Awesome-GPT-Agents",
-            "stars": 6584
+            "stars": 6585
           }
         },
         {
@@ -2517,7 +2517,7 @@
             "last_commit": "2025-03-17T11:31:02Z",
             "owner": "WLiK",
             "repo": "LLM4Rec-Awesome-Papers",
-            "stars": 2306
+            "stars": 2308
           }
         },
         {
@@ -2703,7 +2703,7 @@
             "last_commit": "2020-12-01T10:20:50Z",
             "owner": "nanahou",
             "repo": "Awesome-Speech-Enhancement",
-            "stars": 835
+            "stars": 836
           }
         },
         {
@@ -2763,7 +2763,7 @@
             "last_commit": "2026-08-12T13:14:48Z",
             "owner": "wq2012",
             "repo": "awesome-diarization",
-            "stars": 1891
+            "stars": 1892
           }
         },
         {
@@ -2793,7 +2793,7 @@
             "last_commit": "2023-12-15T16:51:26Z",
             "owner": "ybayle",
             "repo": "awesome-deep-learning-music",
-            "stars": 2981
+            "stars": 2982
           }
         },
         {
@@ -2973,7 +2973,7 @@
             "last_commit": "2026-06-15T05:56:43Z",
             "owner": "wenet-e2e",
             "repo": "wenet",
-            "stars": 5225
+            "stars": 5226
           }
         }
       ],
@@ -2994,7 +2994,7 @@
             "last_commit": "2026-03-02T04:42:20Z",
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9368
+            "stars": 9369
           }
         },
         {
@@ -3009,7 +3009,7 @@
             "last_commit": "2022-09-20T09:33:40Z",
             "owner": "hoya012",
             "repo": "awesome-anomaly-detection",
-            "stars": 2900
+            "stars": 2901
           }
         },
         {
@@ -3024,7 +3024,7 @@
             "last_commit": "2024-05-27T02:43:28Z",
             "owner": "Charmve",
             "repo": "Surface-Defect-Detection",
-            "stars": 4099
+            "stars": 4100
           }
         },
         {
@@ -3099,7 +3099,7 @@
             "last_commit": "2026-02-01T07:01:10Z",
             "owner": "bharathgs",
             "repo": "Awesome-pytorch-list",
-            "stars": 16648
+            "stars": 16650
           }
         },
         {
@@ -3129,7 +3129,7 @@
             "last_commit": "2024-06-17T06:18:41Z",
             "owner": "HumanSignal",
             "repo": "awesome-data-labeling",
-            "stars": 4404
+            "stars": 4406
           }
         },
         {
@@ -3174,7 +3174,7 @@
             "last_commit": "2026-08-03T02:57:08Z",
             "owner": "youngyangyang04",
             "repo": "leetcode-master",
-            "stars": 62262
+            "stars": 62269
           }
         },
         {
@@ -3201,10 +3201,10 @@
             "archived": false,
             "id": 21289110,
             "language": "Python",
-            "last_commit": "2026-08-24T06:42:58Z",
+            "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 315803
+            "stars": 315924
           }
         },
         {
@@ -3219,7 +3219,7 @@
             "last_commit": "2026-08-16T19:35:44Z",
             "owner": "lukasz-madon",
             "repo": "awesome-remote-job",
-            "stars": 47991
+            "stars": 48016
           }
         },
         {
@@ -3234,7 +3234,7 @@
             "last_commit": "2026-08-19T21:44:19Z",
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 469653
+            "stars": 470028
           }
         },
         {
@@ -3249,7 +3249,7 @@
             "last_commit": "2026-05-03T19:24:28Z",
             "owner": "n0shake",
             "repo": "Public-APIs",
-            "stars": 23788
+            "stars": 23793
           }
         },
         {
@@ -3264,7 +3264,7 @@
             "last_commit": "2026-08-01T11:25:46Z",
             "owner": "public-api-lists",
             "repo": "public-api-lists",
-            "stars": 15599
+            "stars": 15612
           }
         },
         {
@@ -3279,7 +3279,7 @@
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11437
+            "stars": 11439
           }
         },
         {
@@ -3294,7 +3294,7 @@
             "last_commit": "2024-12-25T19:55:23Z",
             "owner": "Olshansk",
             "repo": "interview",
-            "stars": 18357
+            "stars": 18358
           }
         },
         {
@@ -3324,7 +3324,7 @@
             "last_commit": "2026-08-14T08:36:36Z",
             "owner": "rossant",
             "repo": "awesome-math",
-            "stars": 16162
+            "stars": 16165
           }
         },
         {
@@ -3339,7 +3339,7 @@
             "last_commit": "2026-07-27T10:19:55Z",
             "owner": "thibmaek",
             "repo": "awesome-raspberry-pi",
-            "stars": 16781
+            "stars": 16783
           }
         },
         {
@@ -3369,7 +3369,7 @@
             "last_commit": "2018-08-16T07:35:40Z",
             "owner": "OpenSLAM",
             "repo": "awesome-SLAM-list",
-            "stars": 633
+            "stars": 634
           }
         },
         {
@@ -3384,7 +3384,7 @@
             "last_commit": "2020-07-13T17:49:45Z",
             "owner": "kanster",
             "repo": "awesome-slam",
-            "stars": 1671
+            "stars": 1672
           }
         },
         {
@@ -3429,7 +3429,7 @@
             "last_commit": "2026-07-15T02:19:53Z",
             "owner": "aymericdamien",
             "repo": "TopDeepLearning",
-            "stars": 6287
+            "stars": 6288
           }
         },
         {
@@ -3474,7 +3474,7 @@
             "last_commit": "2026-03-12T13:22:40Z",
             "owner": "hongleizhang",
             "repo": "RSPapers",
-            "stars": 6512
+            "stars": 6511
           }
         },
         {
@@ -3489,7 +3489,7 @@
             "last_commit": "2026-08-12T03:10:08Z",
             "owner": "nhivp",
             "repo": "Awesome-Embedded",
-            "stars": 9024
+            "stars": 9029
           }
         },
         {
@@ -3549,7 +3549,7 @@
             "last_commit": "2024-09-12T13:11:08Z",
             "owner": "sfikas",
             "repo": "medical-imaging-datasets",
-            "stars": 2566
+            "stars": 2567
           }
         },
         {
@@ -3564,7 +3564,7 @@
             "last_commit": "2026-08-03T13:48:51Z",
             "owner": "liuchong",
             "repo": "awesome-roadmaps",
-            "stars": 7233
+            "stars": 7235
           }
         },
         {
@@ -3594,7 +3594,7 @@
             "last_commit": "2026-02-11T06:25:22Z",
             "owner": "LantaoYu",
             "repo": "MARL-Papers",
-            "stars": 4874
+            "stars": 4875
           }
         },
         {
@@ -3654,7 +3654,7 @@
             "last_commit": "2026-06-03T15:17:31Z",
             "owner": "jphall663",
             "repo": "awesome-machine-learning-interpretability",
-            "stars": 4060
+            "stars": 4061
           }
         },
         {
@@ -3711,7 +3711,7 @@
             "archived": false,
             "id": 101582879,
             "language": null,
-            "last_commit": "2026-08-23T23:59:34Z",
+            "last_commit": "2026-08-25T00:00:15Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
             "stars": 4663
@@ -3741,10 +3741,10 @@
             "archived": false,
             "id": 43425480,
             "language": "HTML",
-            "last_commit": "2026-08-24T01:28:51Z",
+            "last_commit": "2026-08-25T01:28:32Z",
             "owner": "wilsonfreitas",
             "repo": "awesome-quant",
-            "stars": 29121
+            "stars": 29147
           }
         },
         {
@@ -3759,7 +3759,7 @@
             "last_commit": "2026-08-24T05:35:24Z",
             "owner": "thuquant",
             "repo": "awesome-quant",
-            "stars": 5572
+            "stars": 5573
           }
         },
         {
@@ -3789,7 +3789,7 @@
             "last_commit": "2026-08-06T23:31:04Z",
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
-            "stars": 3025
+            "stars": 3026
           }
         },
         {
@@ -3864,7 +3864,7 @@
             "last_commit": "2024-07-31T23:19:05Z",
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3201
+            "stars": 3203
           }
         },
         {
@@ -3909,7 +3909,7 @@
             "last_commit": "2023-05-25T22:25:44Z",
             "owner": "aikorea",
             "repo": "awesome-rl",
-            "stars": 9918
+            "stars": 9919
           }
         },
         {
@@ -3981,10 +3981,10 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-23T23:52:17Z",
+            "last_commit": "2026-08-24T19:56:43Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78584
+            "stars": 78604
           }
         },
         {
@@ -3999,7 +3999,7 @@
             "last_commit": "2026-08-04T09:34:24Z",
             "owner": "georgezouq",
             "repo": "awesome-ai-in-finance",
-            "stars": 6435
+            "stars": 6440
           }
         },
         {
@@ -4059,7 +4059,7 @@
             "last_commit": "2024-03-01T08:20:45Z",
             "owner": "tigerneil",
             "repo": "awesome-deep-rl",
-            "stars": 1513
+            "stars": 1512
           }
         },
         {
@@ -4194,7 +4194,7 @@
             "last_commit": "2025-08-01T11:54:09Z",
             "owner": "ashishpatel26",
             "repo": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
-            "stars": 36486
+            "stars": 36511
           }
         },
         {
@@ -4329,7 +4329,7 @@
             "last_commit": "2026-07-15T09:47:26Z",
             "owner": "ai-collection",
             "repo": "ai-collection",
-            "stars": 9125
+            "stars": 9128
           }
         },
         {
@@ -4344,7 +4344,7 @@
             "last_commit": "2026-08-24T09:14:23Z",
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 108967
+            "stars": 108978
           }
         },
         {
@@ -4367,7 +4367,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:07:31.493Z",
+    "last_updated": "2026-08-25T06:37:57.136Z",
     "original_repository": "bigcash/awesome-ai-list-guide",
     "original_repository_id": 456769655,
     "original_repository_sha": "15007ac7177c8166fabc1a73cfad8c9b96caaeb0",
