@@ -18,9 +18,9 @@ Pull requests are welcome!
 
 ## Tutorials
 
-[awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) ⭐ 90,826 | 🐛 163 | 📅 2026-10-01:   A list of awesome beginners-friendly projects.
+[awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) ⭐ 90,872 | 🐛 164 | 📅 2026-10-01:   A list of awesome beginners-friendly projects.
 
-[Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning.git) ⭐ 21,047 | 🐛 42 | 📅 2026-10-28:  A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
+[Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning.git) ⭐ 21,057 | 🐛 42 | 📅 2026-10-28:  A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 
 [awesome-ai-infrastructures](https://github.com/1duo/awesome-ai-infrastructures) ⭐ 461 | 🐛 8 | 📅 2019-05-24 :   Infrastructures™ for Machine Learning Training/Inference in Production.
 
@@ -28,61 +28,61 @@ Pull requests are welcome!
 
 [competition\_baselines](https://github.com/LogicJake/competition_baselines) ⭐ 373 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2022-09-14 : Open competition's baseline
 
-[competition-baseline](https://github.com/datawhalechina/competition-baseline) ⭐ 4,776 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-07-22 :  Knowledge, code and ideas of data science competition
+[competition-baseline](https://github.com/datawhalechina/competition-baseline) ⭐ 4,778 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-07-22 :  Knowledge, code and ideas of data science competition
 
 [paper-reproduction-tutorials](https://github.com/PaddleEdu/paper-reproduction-tutorials) ⭐ 130 | 🐛 0 | 🌐 Python | 📅 2021-09-14 ： The skill of reproducing papers and sharing PaddlePaddle outstanding projects
 
 [awesome-mlops](https://github.com/visenger/awesome-mlops) ⭐ 14,254 | 🐛 47 | 📅 2024-11-21 :   A curated list of references for MLOps
 
-[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,683 | 🐛 28 | 🌐 Python | 📅 2026-10-27 ： A curated list of awesome Machine Learning frameworks, libraries and software.
+[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,688 | 🐛 31 | 🌐 Python | 📅 2026-10-27 ： A curated list of awesome Machine Learning frameworks, libraries and software.
 
 [Learn-Data-Science-For-Free](https://github.com/therealsreehari/Learn-Data-Science-For-Free) ⭐ 5,148 | 🐛 8 | 📅 2026-02-01 ： This repositary is a combination of different resources lying scattered all over the internet. The reason for making such an repositary is to combine all the valuable resources in a sequential manner, so that it helps every beginners who are in a search of free and structured learning resource for Data Science. For Constant Updates Follow me in …
 
-[best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) ⭐ 23,849 | 🐛 58 | 📅 2026-10-25 ： 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+[best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) ⭐ 23,848 | 🐛 58 | 📅 2026-10-29 ： 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 
-[build-your-own-x](https://github.com/danistefanovic/build-your-own-x) ⭐ 556,896 | 🐛 684 | 🌐 Markdown | 📅 2026-07-14 :  🤓 Build your own (insert technology here)
+[build-your-own-x](https://github.com/danistefanovic/build-your-own-x) ⭐ 557,324 | 🐛 684 | 🌐 Markdown | 📅 2026-07-14 :  🤓 Build your own (insert technology here)
 
-[tensorflow\_practice](https://github.com/princewen/tensorflow_practice) ⭐ 7,036 | 🐛 47 | 🌐 Python | 📅 2023-09-24 :  Tensorflow practice, including reinforcement learning, recommendation system, NLP, etc
+[tensorflow\_practice](https://github.com/princewen/tensorflow_practice) ⭐ 7,037 | 🐛 47 | 🌐 Python | 📅 2023-09-24 :  Tensorflow practice, including reinforcement learning, recommendation system, NLP, etc
 
-[awesome-courses](https://github.com/prakhar1989/awesome-courses) ⭐ 72,355 | 🐛 66 | 📅 2023-05-04 :  📚 List of awesome university courses for learning Computer Science!
+[awesome-courses](https://github.com/prakhar1989/awesome-courses) ⭐ 72,396 | 🐛 66 | 📅 2023-05-04 :  📚 List of awesome university courses for learning Computer Science!
 
 [MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List) ⭐ 2,432 | 🐛 5 | 🌐 TeX | 📅 2024-08-09 :  A machine translation reading list maintained by Tsinghua Natural Language Processing Group
 
-[cs-video-courses](https://github.com/Developer-Y/cs-video-courses) ⭐ 84,149 | 🐛 6 | 📅 2026-10-27 :  List of Computer Science courses with video lectures.
+[cs-video-courses](https://github.com/Developer-Y/cs-video-courses) ⭐ 84,244 | 🐛 6 | 📅 2026-10-27 :  List of Computer Science courses with video lectures.
 
 [machine-learning-surveys](https://github.com/metrofun/machine-learning-surveys) ⭐ 1,411 | 🐛 3 | 🌐 JavaScript | 📅 2023-01-03 :  A curated list of Machine Learning Surveys, Tutorials and Books.
 
-[data-science-blogs](https://github.com/rushter/data-science-blogs) ⭐ 6,343 | 🐛 13 | 🌐 Python | 📅 2024-06-05 :  A curated list of data science blogs
+[data-science-blogs](https://github.com/rushter/data-science-blogs) ⭐ 6,342 | 🐛 13 | 🌐 Python | 📅 2024-06-05 :  A curated list of data science blogs
 
-[awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,532 | 🐛 34 | 📅 2026-02-08 :  TensorFlow - A curated list of dedicated resources
+[awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,531 | 🐛 34 | 📅 2026-02-08 :  TensorFlow - A curated list of dedicated resources
 
-[ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) ⭐ 16,373 | 🐛 13 | 📅 2024-07-18 :  List of Data Science Cheatsheets to rule the world
+[ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) ⭐ 16,376 | 🐛 13 | 📅 2024-07-18 :  List of Data Science Cheatsheets to rule the world
 
-[awesome-R](https://github.com/qinwf/awesome-R) ⭐ 6,535 | 🐛 30 | 🌐 R | 📅 2025-09-18 :  A curated list of awesome R packages, frameworks and software.
+[awesome-R](https://github.com/qinwf/awesome-R) ⭐ 6,534 | 🐛 30 | 🌐 R | 📅 2025-09-18 :  A curated list of awesome R packages, frameworks and software.
 
 [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) ⭐ 7,903 | 🐛 2 | 🌐 Markdown | 📅 2026-10-19 :  ▶️ An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
 
 [Book\_List](https://github.com/mukeshmithrakumar/Book_List) ⭐ 235 | 🐛 0 | 📅 2020-02-02 :  Python, Machine Learning, Deep Learning and Data Science Books
 
-[awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,102 | 🐛 90 | 📅 2025-05-26 :  A curated list of awesome Deep Learning tutorials, projects and communities.
+[awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,109 | 🐛 90 | 📅 2025-05-26 :  A curated list of awesome Deep Learning tutorials, projects and communities.
 
-[awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 16,740 | 🐛 80 | 🌐 Python | 📅 2026-08-15 :  A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
+[awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 16,744 | 🐛 81 | 🌐 Python | 📅 2026-08-15 :  A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 
 [awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) ⭐ 9,360 | 🐛 7 | 📅 2023-03-13 :  Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
 
-[awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 30,249 | 🐛 8 | 📅 2026-10-27 :  📝 An awesome Data Science repository to learn and apply for real world problems.
+[awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 30,246 | 🐛 11 | 📅 2026-10-27 :  📝 An awesome Data Science repository to learn and apply for real world problems.
 
-[awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,198 | 🐛 38 | 🌐 TeX | 📅 2024-01-18 :  The most cited deep learning papers
+[awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,196 | 🐛 38 | 🌐 TeX | 📅 2024-01-18 :  The most cited deep learning papers
 
 [awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn) ⭐ 4,509 | 🐛 5 | 📅 2024-04-03 : Machine learning resources of Chinese version, including the framework, library and software in the field of machine learning
 
-[Awesome-PyTorch-Chinese](https://github.com/INTERMT/Awesome-PyTorch-Chinese) ⭐ 4,787 | 🐛 3 | 🌐 Python | 📅 2019-08-14 :  the most complete pytorch learning resources in history
+[Awesome-PyTorch-Chinese](https://github.com/INTERMT/Awesome-PyTorch-Chinese) ⭐ 4,788 | 🐛 3 | 🌐 Python | 📅 2019-08-14 :  the most complete pytorch learning resources in history
 
 [awesome-AI-books](https://github.com/zslucky/awesome-AI-books) ⭐ 1,833 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-07-07 :  Some awesome AI related books and pdfs for learning and downloading, also apply some playground models for learning
 
-[awesome-ml-courses](https://github.com/luspr/awesome-ml-courses) ⭐ 3,117 | 🐛 5 | 📅 2024-12-12 :  Awesome free machine learning and AI courses with video lectures.
+[awesome-ml-courses](https://github.com/luspr/awesome-ml-courses) ⭐ 3,118 | 🐛 5 | 📅 2024-12-12 :  Awesome free machine learning and AI courses with video lectures.
 
-[awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) ⭐ 1,719 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2026-09-13 :  Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
+[awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) ⭐ 1,719 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-09-13 :  Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
 
 [Awesome-Noah](https://github.com/AI-Sphere/Awesome-Noah) ⭐ 321 | 🐛 4 | 🌐 Python | 📅 2019-04-27 :   Awesome Top Solution List of Excellent AI Competitions
 
@@ -90,13 +90,13 @@ Pull requests are welcome!
 
 [awesome-DeepLearning](https://github.com/PaddlePaddle/awesome-DeepLearning) ⭐ 3,658 | 🐛 444 | 🌐 Jupyter Notebook | 📅 2024-07-25 :  The course, case and knowledge of Deep Learning and AI
 
-[Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) ⭐ 8,492 | 🐛 117 | 🌐 Python | 📅 2024-08-17 :  A resource for learning about Machine learning & Deep Learning
+[Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) ⭐ 8,491 | 🐛 117 | 🌐 Python | 📅 2024-08-17 :  A resource for learning about Machine learning & Deep Learning
 
 [DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) ⭐ 280 | 🐛 0 | 📅 2024-03-26 :  Deep Learning System core principles introduction.
 
-[free-programming-books](https://github.com/EbookFoundation/free-programming-books) ⭐ 400,398 | 🐛 89 | 🌐 Python | 📅 2026-10-27 :  📚 Freely available programming books
+[free-programming-books](https://github.com/EbookFoundation/free-programming-books) ⭐ 400,483 | 🐛 89 | 🌐 Python | 📅 2026-10-27 :  📚 Freely available programming books
 
-[research-method](https://github.com/secdr/research-method) ⭐ 3,402 | 🐛 2 | 📅 2022-08-07 :  Paper Writing and Resources Sharing
+[research-method](https://github.com/secdr/research-method) ⭐ 3,404 | 🐛 2 | 📅 2022-08-07 :  Paper Writing and Resources Sharing
 
 ## CV
 
@@ -112,25 +112,25 @@ Pull requests are welcome!
 
 [awesome-ocr](https://github.com/wanghaisheng/awesome-ocr) ⭐ 1,709 | 🐛 12 | 📅 2022-06-24 :  A curated list of promising OCR resources
 
-[Awesome-Table-Recognition](https://github.com/cv-small-snails/Awesome-Table-Recognition) ⭐ 405 | 🐛 2 | 📅 2024-12-12 :  A curated list of resources dedicated to table recognition
+[Awesome-Table-Recognition](https://github.com/cv-small-snails/Awesome-Table-Recognition) ⭐ 406 | 🐛 2 | 📅 2024-12-12 :  A curated list of resources dedicated to table recognition
 
 [awesome-object-detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,509 | 🐛 7 | 📅 2022-12-17 :  Awesome Object Detection based on handong1587 github
 
-[deep\_learning\_object\_detection](https://github.com/hoya012/deep_learning_object_detection) ⭐ 11,375 | 🐛 5 | 🌐 Python | 📅 2024-02-12 :  A paper list of object detection using deep learning.
+[deep\_learning\_object\_detection](https://github.com/hoya012/deep_learning_object_detection) ⭐ 11,376 | 🐛 5 | 🌐 Python | 📅 2024-02-12 :  A paper list of object detection using deep learning.
 
 [awesome-captcha](https://github.com/ZYSzys/awesome-captcha) ⭐ 1,440 | 🐛 13 | 🌐 JavaScript | 📅 2026-10-20 :  🔑 Curated list of awesome captcha libraries and crack tools.
 
 [image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers) ⭐ 1,129 | 🐛 4 | 📅 2020-03-20 :  🦓<->🦒 🌃<->🌆 A collection of image to image papers with code (constantly updating)
 
-[Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,598 | 🐛 93 | 🌐 Python | 📅 2022-11-27 :  Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
+[Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,600 | 🐛 93 | 🌐 Python | 📅 2022-11-27 :  Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 
 [benchmark\_results](https://github.com/foolwood/benchmark_results) ⭐ 3,944 | 🐛 17 | 📅 2020-07-20 :  Visual Tracking Paper List
 
 [awesome\_3DReconstruction\_list](https://github.com/openMVG/awesome_3DReconstruction_list) ⭐ 4,434 | 🐛 6 | 📅 2021-10-12 :  A curated list of papers & resources linked to 3D reconstruction from images.
 
-[the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) ⭐ 14,697 | 🐛 40 | 🌐 Python | 📅 2023-10-06 :  A list of all named GANs!
+[the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) ⭐ 14,698 | 🐛 40 | 🌐 Python | 📅 2023-10-06 :  A list of all named GANs!
 
-[awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,622 | 🐛 99 | 📅 2024-05-17 :  A curated list of awesome computer vision resources
+[awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,625 | 🐛 99 | 📅 2024-05-17 :  A curated list of awesome computer vision resources
 
 [multi-object-tracking-paper-list](https://github.com/SpyderXu/multi-object-tracking-paper-list) ⭐ 1,682 | 🐛 2 | 📅 2020-04-24 :  Paper list and source code for multi-object-tracking
 
@@ -164,7 +164,7 @@ Pull requests are welcome!
 
 [Awesome-Crowd-Counting](https://github.com/gjy3035/Awesome-Crowd-Counting) ⭐ 2,617 | 🐛 17 | 📅 2026-01-24 :  Awesome Crowd Counting
 
-[awesome-Face\_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) ⭐ 4,763 | 🐛 11 | 📅 2023-02-09 :  papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;
+[awesome-Face\_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) ⭐ 4,765 | 🐛 11 | 📅 2023-02-09 :  papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;
 
 [AWESOME-FER](https://github.com/EvelynFan/AWESOME-FER) ⭐ 960 | 🐛 7 | 📅 2022-09-22 :  Top conferences & Journals focused on Facial expression recognition (FER)/ Facial action unit (FAU)
 
@@ -186,9 +186,9 @@ Pull requests are welcome!
 
 [awesome-llm-and-aigc](https://github.com/codingonion/awesome-llm-and-aigc) ⭐ 817 | 🐛 13 | 📅 2025-08-01 :  A collection of some awesome public projects about Large Language Model, Vision Foundation Model and AI Generated Content.
 
-[awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) ⭐ 750 | 🐛 3 | 🌐 Python | 📅 2026-10-28 :  A Survey on Text-to-Video Generation/Synthesis.
+[awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) ⭐ 750 | 🐛 4 | 🌐 Python | 📅 2026-10-28 :  A Survey on Text-to-Video Generation/Synthesis.
 
-[Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) ⭐ 4,567 | 🐛 12 | 📅 2024-03-31 :  Curated tutorials and resources for Large Language Models, AI Painting, and more.
+[Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) ⭐ 4,565 | 🐛 12 | 📅 2024-03-31 :  Curated tutorials and resources for Large Language Models, AI Painting, and more.
 
 [Awesome-AIGC](https://github.com/wshzd/Awesome-AIGC) ⭐ 877 | 🐛 4 | 📅 2023-10-22 :  AIGC资料汇总学习，持续更新......
 
@@ -206,15 +206,15 @@ Pull requests are welcome!
 
 [ChineseNLP](https://github.com/didi/ChineseNLP) ⚠️ Archived :  Datasets, SOTA results of every fields of Chinese NLP
 
-[ChineseNLPCorpus](https://github.com/InsaneLife/ChineseNLPCorpus) ⭐ 4,625 | 🐛 6 | 🌐 Python | 📅 2023-11-21 :  Chinese natural language processing data set is the material for experiments at ordinary times. 中文自然语言处理数据集
+[ChineseNLPCorpus](https://github.com/InsaneLife/ChineseNLPCorpus) ⭐ 4,626 | 🐛 6 | 🌐 Python | 📅 2023-11-21 :  Chinese natural language processing data set is the material for experiments at ordinary times. 中文自然语言处理数据集
 
 [Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors) ⭐ 12,246 | 🐛 61 | 🌐 Python | 📅 2023-10-30 :  100+ Chinese Word Vectors 上百种预训练中文词向量
 
-[ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus) ⭐ 6,608 | 🐛 25 | 🌐 Jupyter Notebook | 📅 2019-01-29 :  Collect, organize and publish Chinese natural language processing corpus / data set
+[ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus) ⭐ 6,609 | 🐛 25 | 🌐 Jupyter Notebook | 📅 2019-01-29 :  Collect, organize and publish Chinese natural language processing corpus / data set
 
 [nlp-competitions-list-review](https://github.com/zhpmatrix/nlp-competitions-list-review) ⭐ 2,806 | 🐛 0 | 📅 2026-04-04 :  Resume the top plan of all NLP competitions, only focus on NLP competitions, and keep updating! NLP比赛top方案
 
-[funNLP](https://github.com/fighting41love/funNLP) ⭐ 84,223 | 🐛 55 | 🌐 Python | 📅 2024-05-10 :  Chinese and English sensitive words, language detection, Chinese and foreign mobile phone / telephone home / operator query, name inference, gender, mobile phone number extraction, ID card extraction, email extraction, and more ... 有趣的中文NLP
+[funNLP](https://github.com/fighting41love/funNLP) ⭐ 84,257 | 🐛 55 | 🌐 Python | 📅 2024-05-10 :  Chinese and English sensitive words, language detection, Chinese and foreign mobile phone / telephone home / operator query, name inference, gender, mobile phone number extraction, ID card extraction, email extraction, and more ... 有趣的中文NLP
 
 [nlp\_chinese\_corpus](https://github.com/brightmart/nlp_chinese_corpus) ⭐ 9,935 | 🐛 23 | 📅 2026-02-06 :  大规模中文自然语言处理语料 Large Scale Chinese Corpus for NLP
 
@@ -228,7 +228,7 @@ Pull requests are welcome!
 
 [Question-Generation-Paper-List](https://github.com/teacherpeterpan/Question-Generation-Paper-List) ⭐ 583 | 🐛 2 | 📅 2021-10-25 :  A summary of must-read papers for Neural Question Generation (NQG)
 
-[awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,108 | 🐛 7 | 📅 2026-10-12 :  📖 A curated list of resources dedicated to Natural Language Processing (NLP)
+[awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,113 | 🐛 7 | 📅 2026-10-12 :  📖 A curated list of resources dedicated to Natural Language Processing (NLP)
 
 [Style-Transfer-in-Text](https://github.com/fuzhenxin/Style-Transfer-in-Text) ⭐ 1,629 | 🐛 2 | 📅 2023-03-16 :  Paper List for Style Transfer in Text
 
@@ -246,7 +246,7 @@ Pull requests are welcome!
 
 [awesome-bert-nlp](https://github.com/cedrickchee/awesome-bert-nlp) ⭐ 1,151 | 🐛 2 | 📅 2024-10-27 :  A curated list of NLP resources focused on BERT, attention mechanism, Transformer networks, and transfer learning.
 
-[awesome-knowledge-graph](https://github.com/husthuke/awesome-knowledge-graph) ⭐ 5,174 | 🐛 8 | 📅 2021-03-11 :  a cute list of Knowledge graph
+[awesome-knowledge-graph](https://github.com/husthuke/awesome-knowledge-graph) ⭐ 5,175 | 🐛 8 | 📅 2021-03-11 :  a cute list of Knowledge graph
 
 [Task-Oriented-Dialogue-Research-Progress-Survey](https://github.com/AtmaHou/Task-Oriented-Dialogue-Research-Progress-Survey) ⭐ 1,239 | 🐛 2 | 📅 2022-11-08 :  A datasets and methods survey about task-oriented dialogue, including recent datasets and SOTA leaderboards.
 
@@ -260,19 +260,19 @@ Pull requests are welcome!
 
 [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,463 | 🐛 489 | 📅 2025-07-31 :  Awesome-LLM: a curated list of Large Language Model
 
-[Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 79,622 | 🐛 293 | 🌐 MDX | 📅 2026-03-11 :  Guides, papers, lecture, and resources for prompt engineering
+[Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 79,657 | 🐛 293 | 🌐 MDX | 📅 2026-03-11 :  Guides, papers, lecture, and resources for prompt engineering
 
-[PromptPapers](https://github.com/thunlp/PromptPapers) ⭐ 4,328 | 🐛 6 | 📅 2023-07-17 :  Must-read papers on prompt-based tuning for pre-trained language models.
+[PromptPapers](https://github.com/thunlp/PromptPapers) ⭐ 4,327 | 🐛 6 | 📅 2023-07-17 :  Must-read papers on prompt-based tuning for pre-trained language models.
 
-[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 174,943 | 🐛 78 | 🌐 HTML | 📅 2026-10-28 :  This repo includes ChatGPT prompt curation to use ChatGPT better.
+[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 175,066 | 🐛 79 | 🌐 HTML | 📅 2026-10-29 :  This repo includes ChatGPT prompt curation to use ChatGPT better.
 
-[awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ⭐ 64,145 | 🐛 49 | 📅 2026-04-28 :  ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+[awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ⭐ 64,201 | 🐛 49 | 📅 2026-04-28 :  ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 
 [awesome-gpt3](https://github.com/elyase/awesome-gpt3) ⚠️ Archived :  Awesome GPT-3 is a collection of demos and articles about the [OpenAI GPT-3 API](https://openai.com/blog/openai-api/).
 
-[Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) ⭐ 4,201 | 🐛 5 | 📅 2025-06-04 :  ChatGPT资料汇总学习，持续更新......
+[Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) ⭐ 4,202 | 🐛 5 | 📅 2025-06-04 :  ChatGPT资料汇总学习，持续更新......
 
-[awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) ⭐ 6,060 | 🐛 21 | 🌐 Python | 📅 2025-05-16 :  Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
+[awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) ⭐ 6,061 | 🐛 21 | 🌐 Python | 📅 2025-05-16 :  Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
 
 [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) ⭐ 8,206 | 🐛 155 | 📅 2025-10-15 :  Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 
@@ -284,12 +284,12 @@ Pull requests are welcome!
 
 [awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset) ⭐ 1,152 | 🐛 4 | 📅 2024-01-04 :  A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)
 
-[LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) ⭐ 12,226 | 🐛 30 | 🌐 Python | 📅 2025-03-11 :  The official GitHub page for the survey paper "A Survey of Large Language Models".
+[LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) ⭐ 12,225 | 🐛 30 | 🌐 Python | 📅 2025-03-11 :  The official GitHub page for the survey paper "A Survey of Large Language Models".
 
-[awesome-langchain](https://github.com/kyrolabs/awesome-langchain) ⭐ 9,580 | 🐛 0 | 📅 2026-10-17 :  Awesome list of tools and projects with the awesome LangChain framework
+[awesome-langchain](https://github.com/kyrolabs/awesome-langchain) ⭐ 9,581 | 🐛 1 | 📅 2026-10-17 :  Awesome list of tools and projects with the awesome LangChain framework
 [awesome-pretrained-chinese-nlp-models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models) ⭐ 5,612 | 🐛 5 | 🌐 Python | 📅 2026-08-30 :   Awesome Pretrained Chinese NLP Models
 
-[Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,070 | 🐛 117 | 📅 2026-10-27 :  Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation.
+[Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,069 | 🐛 117 | 📅 2026-10-29 :  Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation.
 
 [awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China) ⭐ 6,489 | 🐛 18 | 📅 2024-11-30 : LLMs in china
 
@@ -297,9 +297,9 @@ Pull requests are welcome!
 
 [awesome-LLM-benchmarks](https://github.com/wgwang/awesome-LLM-benchmarks) ⭐ 170 | 🐛 11 | 📅 2024-01-03 :  Awesome LLM Benchmarks to evaluate the LLMs across text, code, image, audio, video and more.
 
-[Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) ⭐ 22,771 | 🐛 37 | 📅 2026-05-10 :  整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
+[Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) ⭐ 22,769 | 🐛 37 | 📅 2026-05-10 :  整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 
-[Awesome-Domain-LLM](https://github.com/luban-agi/Awesome-Domain-LLM) ⭐ 2,583 | 🐛 1 | 📅 2023-12-26 :  收集和梳理垂直领域的开源模型、数据集及评测基准。
+[Awesome-Domain-LLM](https://github.com/luban-agi/Awesome-Domain-LLM) ⭐ 2,582 | 🐛 1 | 📅 2023-12-26 :  收集和梳理垂直领域的开源模型、数据集及评测基准。
 
 [DecryptPrompt](https://github.com/DSXiangLi/DecryptPrompt) ⭐ 3,448 | 🐛 1 | 📅 2026-10-26 :  总结Prompt\&LLM论文，开源数据&模型，AIGC应用
 
@@ -307,15 +307,15 @@ Pull requests are welcome!
 
 [LLMDataHub](https://github.com/Zjh-819/LLMDataHub) ⭐ 3,420 | 🐛 5 | 📅 2023-11-28 :  A quick guide (especially) for trending instruction finetuning datasets
 
-[NLPer-Arsenal](https://github.com/TingFree/NLPer-Arsenal) ⭐ 2,239 | 🐛 1 | 🌐 Python | 📅 2023-08-29 :  收录NLP竞赛策略实现、各任务baseline、相关竞赛经验贴（当前赛事、往期赛事、训练赛）、NLP会议时间、常用自媒体、GPU推荐等
+[NLPer-Arsenal](https://github.com/TingFree/NLPer-Arsenal) ⭐ 2,240 | 🐛 1 | 🌐 Python | 📅 2023-08-29 :  收录NLP竞赛策略实现、各任务baseline、相关竞赛经验贴（当前赛事、往期赛事、训练赛）、NLP会议时间、常用自媒体、GPU推荐等
 
-[awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 143,334 | 🐛 25 | 🌐 Python | 📅 2026-10-22 :  Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
+[awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 143,426 | 🐛 25 | 🌐 Python | 📅 2026-10-22 :  Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
 
-[llm-app](https://github.com/pathwaycom/llm-app) ⭐ 58,754 | 🐛 9 | 🌐 Python | 📅 2026-10-16 :  Dynamic RAG for enterprise. Ready to run with Docker,⚡in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.
+[llm-app](https://github.com/pathwaycom/llm-app) ⭐ 58,750 | 🐛 9 | 🌐 Python | 📅 2026-10-16 :  Dynamic RAG for enterprise. Ready to run with Docker,⚡in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.
 
 [Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application) ⭐ 1,663 | 🐛 16 | 📅 2026-10-12 :  the resources about the application based on LLM with RAG pattern
 
-[Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) ⭐ 3,777 | 🐛 11 | 📅 2026-01-26 :  Curated tutorials and resources for Large Language Models, Text2SQL, Text2DSL、Text2API、Text2Vis and more.
+[Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) ⭐ 3,776 | 🐛 11 | 📅 2026-01-26 :  Curated tutorials and resources for Large Language Models, Text2SQL, Text2DSL、Text2API、Text2Vis and more.
 
 [NL2SQL](https://github.com/yechens/NL2SQL) ⭐ 1,561 | 🐛 7 | 📅 2023-03-01 :  Text2SQL 语义解析数据集、解决方案、paper资源整合项目
 
@@ -325,11 +325,11 @@ Pull requests are welcome!
 
 [Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) ⭐ 6,902 | 🐛 29 | 📅 2025-12-17 :  A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 and reasoning techniques.
 
-[Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) ⭐ 5,967 | 🐛 373 | 🌐 Shell | 📅 2026-10-16 :  An awesome & curated list of best LLMOps tools for developers
+[Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) ⭐ 5,968 | 🐛 387 | 🌐 Shell | 📅 2026-10-16 :  An awesome & curated list of best LLMOps tools for developers
 
-[awesome-LLM-resourses](https://github.com/WangRongsheng/awesome-LLM-resourses) ⭐ 9,049 | 🐛 54 | 📅 2026-10-20 :  🧑‍🚀 全世界最好的LLM资料总结 | Summary of the world's best LLM resources.
+[awesome-LLM-resourses](https://github.com/WangRongsheng/awesome-LLM-resourses) ⭐ 9,051 | 🐛 53 | 📅 2026-10-20 :  🧑‍🚀 全世界最好的LLM资料总结 | Summary of the world's best LLM resources.
 
-[Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) ⭐ 4,492 | 🐛 19 | 📅 2026-10-10 :  A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites
+[Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) ⭐ 4,495 | 🐛 7 | 📅 2026-10-29 :  A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites
 
 [Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference) ⭐ 21 | 🐛 0 | 📅 2025-03-30 :  📖A curated list of Awesome LLM Inference Paper with codes, TensorRT-LLM, vLLM, streaming-llm, AWQ, SmoothQuant, WINT8/4, Continuous Batching, FlashAttention, PagedAttention etc.
 
@@ -341,9 +341,9 @@ Pull requests are welcome!
 
 [Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets) ⭐ 1,482 | 🐛 8 | 📅 2026-03-11 :  Summarize existing representative LLMs text datasets.
 
-[awesome-ml](https://github.com/underlines/awesome-ml) ⭐ 2,729 | 🐛 35 | 📅 2025-04-25 :  Curated list of useful LLM / Analytics / Datascience resources
+[awesome-ml](https://github.com/underlines/awesome-ml) ⭐ 2,729 | 🐛 34 | 📅 2025-04-25 :  Curated list of useful LLM / Analytics / Datascience resources
 
-[awesome-llm-security](https://github.com/corca-ai/awesome-llm-security) ⭐ 1,716 | 🐛 274 | 📅 2025-08-20 :  A curation of awesome tools, documents and projects about LLM Security.
+[awesome-llm-security](https://github.com/corca-ai/awesome-llm-security) ⭐ 1,715 | 🐛 277 | 📅 2025-08-20 :  A curation of awesome tools, documents and projects about LLM Security.
 
 [Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) ⭐ 1,901 | 🐛 3 | 📅 2026-10-15 :  A curated list of awesome LLM for Autonomous Driving resources
 
@@ -353,11 +353,11 @@ Pull requests are welcome!
 
 [Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM) ⭐ 3,445 | 🐛 24 | 📅 2026-05-20 :  A curated list of language modeling researches for code and related datasets.
 
-[awesome-llm-interpretability](https://github.com/JShollaj/awesome-llm-interpretability) ⭐ 1,658 | 🐛 7 | 📅 2026-10-25 :  A curated list of Large Language Model (LLM) Interpretability resources.
+[awesome-llm-interpretability](https://github.com/JShollaj/awesome-llm-interpretability) ⭐ 1,658 | 🐛 6 | 📅 2026-10-29 :  A curated list of Large Language Model (LLM) Interpretability resources.
 
 [Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM) ⭐ 2,451 | 🐛 7 | 📅 2025-11-05 :  A collection of AWESOME things about Graph-Related LLMs.
 
-[Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) ⭐ 6,610 | 🐛 29 | 📅 2024-07-21 :  A curated list of GPT agents for cybersecurity
+[Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) ⭐ 6,609 | 🐛 29 | 📅 2024-07-21 :  A curated list of GPT agents for cybersecurity
 
 [LLM4Rec-Awesome-Papers](https://github.com/WLiK/LLM4Rec-Awesome-Papers) ⭐ 2,326 | 🐛 6 | 📅 2025-03-17 :  A list of awesome papers and resources of recommender system on large language model (LLM).
 
@@ -393,11 +393,11 @@ Pull requests are welcome!
 
 [wer\_are\_we](https://github.com/syhw/wer_are_we) ⭐ 1,864 | 🐛 18 | 📅 2022-06-27 :  Attempt at tracking states of the arts and recent results (bibliography) on speech recognition.
 
-[awesome-diarization](https://github.com/wq2012/awesome-diarization) ⭐ 1,913 | 🐛 4 | 📅 2026-10-26 :  A curated list of awesome Speaker Diarization papers, libraries, datasets, and other resources.
+[awesome-diarization](https://github.com/wq2012/awesome-diarization) ⭐ 1,914 | 🐛 4 | 📅 2026-10-26 :  A curated list of awesome Speaker Diarization papers, libraries, datasets, and other resources.
 
 [awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) ⭐ 5,099 | 🐛 23 | 🌐 Shell | 📅 2026-08-13 :  A curated list about Audio Visualization.
 
-[awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) ⭐ 2,996 | 🐛 8 | 🌐 TeX | 📅 2023-12-15 :  List of articles related to deep learning applied to music
+[awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) ⭐ 2,997 | 🐛 8 | 🌐 TeX | 📅 2023-12-15 :  List of articles related to deep learning applied to music
 
 [speech-language-processing](https://github.com/edobashira/speech-language-processing) ⭐ 2,226 | 🐛 18 | 📅 2019-04-02 :  A curated list of speech and natural language processing resources
 
@@ -407,7 +407,7 @@ Pull requests are welcome!
 
 [SER-datasets](https://github.com/SuperKogito/SER-datasets) ⭐ 427 | 🐛 18 | 🌐 HTML | 📅 2024-09-30 :  A collection of datasets for the purpose of emotion recognition/detection in speech.
 
-[awesome-openai-whisper](https://github.com/ancs21/awesome-openai-whisper) ⭐ 108 | 🐛 21 | 📅 2026-10-10 :  A curated list of awesome OpenAI's Whisper
+[awesome-openai-whisper](https://github.com/ancs21/awesome-openai-whisper) ⭐ 108 | 🐛 20 | 📅 2026-10-10 :  A curated list of awesome OpenAI's Whisper
 
 [Tutorial\_Separation](https://github.com/gemengtju/Tutorial_Separation) ⭐ 487 | 🐛 3 | 🌐 MATLAB | 📅 2021-01-09 :  This repo summarizes the tutorials, datasets, papers, codes and tools for speech separation and speaker extraction task. You are kindly invited to pull requests.
 
@@ -425,13 +425,13 @@ Pull requests are welcome!
 
 ## Others
 
-[anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,433 | 🐛 14 | 🌐 Python | 📅 2026-03-02 :  Anomaly detection related books, papers, videos, and toolboxes
+[anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,432 | 🐛 14 | 🌐 Python | 📅 2026-03-02 :  Anomaly detection related books, papers, videos, and toolboxes
 
-[awesome-anomaly-detection](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,920 | 🐛 10 | 📅 2022-09-20 :  A curated list of awesome anomaly detection resources
+[awesome-anomaly-detection](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,919 | 🐛 10 | 📅 2022-09-20 :  A curated list of awesome anomaly detection resources
 
 [Surface-Defect-Detection](https://github.com/Charmve/Surface-Defect-Detection) ⭐ 4,144 | 🐛 16 | 🌐 Python | 📅 2024-05-27 :   Constantly summarizing open source dataset and critical papers in the field of surface defect research which are of great importance.
 
-[Awesome-Meta-Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning) ⭐ 1,553 | 🐛 1 | 📅 2020-11-24 :  A curated list of Meta Learning papers, code, books, blogs, videos, datasets and other resources.
+[Awesome-Meta-Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning) ⭐ 1,552 | 🐛 1 | 📅 2020-11-24 :  A curated list of Meta Learning papers, code, books, blogs, videos, datasets and other resources.
 
 [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) :  🇨🇳 GitHub chinese top list 中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰，高效学习。
 
@@ -441,41 +441,41 @@ Pull requests are welcome!
 
 [Awesome-pytorch-list-CNVersion](https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion) ⭐ 1,792 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-07-26 :  Awesome-pytorch-list 翻译工作进行中......
 
-[Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) ⭐ 16,726 | 🐛 31 | 📅 2026-09-22 :  A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
+[Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) ⭐ 16,731 | 🐛 31 | 📅 2026-09-22 :  A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 
 [deeplearning-models](https://github.com/rasbt/deeplearning-models) ⭐ 17,627 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-09-26 :  A collection of various deep learning architectures, models, and tips
 
-[awesome-data-labeling](https://github.com/heartexlabs/awesome-data-labeling) ⭐ 4,433 | 🐛 59 | 📅 2024-06-17 :  A curated list of awesome data labeling tools
+[awesome-data-labeling](https://github.com/heartexlabs/awesome-data-labeling) ⭐ 4,434 | 🐛 59 | 📅 2024-06-17 :  A curated list of awesome data labeling tools
 
 [Awesome-Learning-with-Label-Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise) ⭐ 2,714 | 🐛 3 | 📅 2025-05-03 :  A curated list of resources for Learning with Noisy Labels
 
-[awesome-music-production](https://github.com/ad-si/awesome-music-production.git) ⭐ 1,539 | 🐛 46 | 📅 2026-10-26:   A curated list of software, services and resources to create and distribute music.
+[awesome-music-production](https://github.com/ad-si/awesome-music-production.git) ⭐ 1,539 | 🐛 44 | 📅 2026-10-26:   A curated list of software, services and resources to create and distribute music.
 
-[leetcode-master](https://github.com/youngyangyang04/leetcode-master) ⭐ 62,757 | 🐛 265 | 🌐 Shell | 📅 2026-10-24 ： LeetCode Introduction 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
+[leetcode-master](https://github.com/youngyangyang04/leetcode-master) ⭐ 62,756 | 🐛 265 | 🌐 Shell | 📅 2026-10-24 ： LeetCode Introduction 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 
-[awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) ⭐ 16,226 | 🐛 78 | 🌐 Python | 📅 2022-07-26 ： 😮python crawlers 模拟登陆一些大型网站，还有一些简单的爬虫，
+[awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) ⭐ 16,228 | 🐛 78 | 🌐 Python | 📅 2022-07-26 ： 😮python crawlers 模拟登陆一些大型网站，还有一些简单的爬虫，
 
 [awesome-spider](https://github.com/facert/awesome-spider) :   crawlers list 爬虫集合
 
-[awesome-python](https://github.com/vinta/awesome-python) ⭐ 330,900 | 🐛 20 | 🌐 Python | 📅 2026-10-28 :  A curated list of awesome Python frameworks, libraries, software and resources
+[awesome-python](https://github.com/vinta/awesome-python) ⭐ 331,142 | 🐛 21 | 🌐 Python | 📅 2026-10-29 :  A curated list of awesome Python frameworks, libraries, software and resources
 
-[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 50,050 | 🐛 149 | 📅 2026-09-21 :  A curated list of awesome remote jobs and resources.
+[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 50,110 | 🐛 151 | 📅 2026-09-21 :  A curated list of awesome remote jobs and resources.
 
-[public-apis](https://github.com/public-apis/public-apis) ⭐ 492,962 | 🐛 2,479 | 🌐 Python | 📅 2026-10-27 :  A collective list of free APIs
+[public-apis](https://github.com/public-apis/public-apis) ⭐ 493,227 | 🐛 2,475 | 🌐 Python | 📅 2026-10-29 :  A collective list of free APIs
 
-[Public-APIs](https://github.com/n0shake/Public-APIs) ⭐ 24,045 | 🐛 175 | 📅 2026-05-03 :  📚 A public list of APIs from round the web.
+[Public-APIs](https://github.com/n0shake/Public-APIs) ⭐ 24,045 | 🐛 176 | 📅 2026-05-03 :  📚 A public list of APIs from round the web.
 
-[public-api-lists](https://github.com/public-api-lists/public-api-lists) ⭐ 16,242 | 🐛 156 | 📅 2026-09-14 :  A collective list of free APIs for use in software and web development 🚀
+[public-api-lists](https://github.com/public-api-lists/public-api-lists) ⭐ 16,254 | 🐛 157 | 📅 2026-09-14 :  A collective list of free APIs for use in software and web development 🚀
 
-[lists](https://github.com/jnv/lists) ⭐ 11,604 | 🐛 32 | 📅 2026-03-23 :  The definitive list of lists (of lists) curated on GitHub and elsewhere
+[lists](https://github.com/jnv/lists) ⭐ 11,608 | 🐛 0 | 📅 2026-10-29 :  The definitive list of lists (of lists) curated on GitHub and elsewhere
 
-[interview](https://github.com/Olshansk/interview) ⭐ 18,383 | 🐛 15 | 📅 2024-12-25 :  Everything you need to prepare for your technical interview
+[interview](https://github.com/Olshansk/interview) ⭐ 18,382 | 🐛 15 | 📅 2024-12-25 :  Everything you need to prepare for your technical interview
 
-[A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) ⭐ 22,484 | 🐛 75 | 📅 2026-10-21 :  ✅ Curated list of resources for college students
+[A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) ⭐ 22,489 | 🐛 75 | 📅 2026-10-21 :  ✅ Curated list of resources for college students
 
-[awesome-math](https://github.com/rossant/awesome-math) ⭐ 16,701 | 🐛 1 | 🌐 Python | 📅 2026-10-24 :  A curated list of awesome mathematics resources
+[awesome-math](https://github.com/rossant/awesome-math) ⭐ 16,711 | 🐛 1 | 🌐 Python | 📅 2026-10-24 :  A curated list of awesome mathematics resources
 
-[awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) ⭐ 17,044 | 🐛 17 | 🌐 Shell | 📅 2026-10-27 :  📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+[awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) ⭐ 17,054 | 🐛 17 | 🌐 Shell | 📅 2026-10-27 :  📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 
 [science-based-games-list](https://github.com/stared/science-based-games-list) ⭐ 1,651 | 🐛 14 | 📅 2026-01-28 :  Science-based games - a collaborative list
 
@@ -485,9 +485,9 @@ Pull requests are welcome!
 
 [SLAM-All-In-One](https://github.com/zhouyong1234/SLAM-All-In-One) ⭐ 402 | 🐛 1 | 🌐 C++ | 📅 2022-08-15 :  SLAM汇总，包括多传感器融合建图、定位、VIO系列、常用工具包、开源代码注释和公式推导、文章综述
 
-[awesome-robotics](https://github.com/kiloreux/awesome-robotics) ⭐ 7,266 | 🐛 48 | 📅 2024-09-22 :  A list of awesome Robotics resources
+[awesome-robotics](https://github.com/kiloreux/awesome-robotics) ⭐ 7,267 | 🐛 48 | 📅 2024-09-22 :  A list of awesome Robotics resources
 
-[TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) ⭐ 6,395 | 🐛 20 | 🌐 Python | 📅 2026-07-15 :  A list of popular github projects related to deep learning
+[TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) ⭐ 6,396 | 🐛 20 | 🌐 Python | 📅 2026-07-15 :  A list of popular github projects related to deep learning
 
 [awesome-ai-residency](https://github.com/dangkhoasdc/awesome-ai-residency) ⭐ 3,305 | 🐛 1 | 📅 2025-04-04 :  List of AI Residency Programs
 
@@ -495,19 +495,19 @@ Pull requests are welcome!
 
 [RSPapers](https://github.com/hongleizhang/RSPapers) ⭐ 6,519 | 🐛 1 | 📅 2026-10-26 :  A Curated List of Must-read Papers on Recommender System.
 
-[Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 9,291 | 🐛 15 | 📅 2026-10-10 :  A curated list of awesome embedded programming.
+[Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 9,294 | 🐛 15 | 📅 2026-10-10 :  A curated list of awesome embedded programming.
 
 [useful-computer-vision-phd-resources](https://github.com/hassony2/useful-computer-vision-phd-resources) ⭐ 598 | 🐛 0 | 📅 2022-01-16 :  Lists of resources useful for my PhD in computer vision
 
 [spatio-temporal-paper-list](https://github.com/Eilene/spatio-temporal-paper-list) ⭐ 523 | 🐛 6 | 📅 2019-11-07 :  Spatio-temporal modeling 论文列表（主要是graph convolution相关)
 
-[awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning) ⭐ 6,438 | 🐛 3 | 📅 2026-02-24 :  A curated list of awesome self-supervised methods
+[awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning) ⭐ 6,439 | 🐛 3 | 📅 2026-02-24 :  A curated list of awesome self-supervised methods
 
-[medical-imaging-datasets](https://github.com/sfikas/medical-imaging-datasets) ⭐ 2,571 | 🐛 3 | 📅 2024-09-12 :  A list of Medical imaging datasets.
+[medical-imaging-datasets](https://github.com/sfikas/medical-imaging-datasets) ⭐ 2,570 | 🐛 3 | 📅 2024-09-12 :  A list of Medical imaging datasets.
 
-[awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) ⭐ 7,434 | 🐛 2 | 📅 2026-10-19 :  A curated list of roadmaps.
+[awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) ⭐ 7,439 | 🐛 2 | 📅 2026-10-19 :  A curated list of roadmaps.
 
-[EEG-Datasets](https://github.com/meagmohit/EEG-Datasets) ⭐ 3,134 | 🐛 14 | 📅 2025-10-17 :  A list of all public EEG-datasets
+[EEG-Datasets](https://github.com/meagmohit/EEG-Datasets) ⭐ 3,135 | 🐛 14 | 📅 2025-10-17 :  A list of all public EEG-datasets
 
 [MARL-Papers](https://github.com/LantaoYu/MARL-Papers) ⭐ 4,892 | 🐛 5 | 📅 2026-02-11 :  Paper list of multi-agent reinforcement learning (MARL)
 
@@ -517,7 +517,7 @@ Pull requests are welcome!
 
 [deep-reinforcement-learning-papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers) ⭐ 2,193 | 🐛 3 | 📅 2016-06-15 :  A list of recent papers regarding deep reinforcement learning
 
-[awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) ⭐ 4,078 | 🐛 27 | 📅 2026-06-03 :  A curated list of awesome machine learning interpretability resources.
+[awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) ⭐ 4,079 | 🐛 27 | 📅 2026-06-03 :  A curated list of awesome machine learning interpretability resources.
 
 [awesome-fast-attention](https://github.com/Separius/awesome-fast-attention) ⚠️ Archived :  list of efficient attention modules
 
@@ -527,19 +527,19 @@ Pull requests are welcome!
 
 [Paper-List](https://github.com/ConanCui/Paper-List) :  A reading paper list which is mainted daily
 
-[awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) ⭐ 4,686 | 🐛 11 | 📅 2026-10-28 :  A curated list of awesome Jupyter projects, libraries and resources
+[awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) ⭐ 4,684 | 🐛 12 | 📅 2026-10-29 :  A curated list of awesome Jupyter projects, libraries and resources
 
-[the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) ⭐ 12,668 | 🐛 6 | 📅 2026-09-23 :  The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
+[the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) ⭐ 12,669 | 🐛 6 | 📅 2026-09-23 :  The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
 
-[awesome-quant](https://github.com/wilsonfreitas/awesome-quant) ⭐ 30,329 | 🐛 198 | 🌐 HTML | 📅 2026-10-28 :  A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
+[awesome-quant](https://github.com/wilsonfreitas/awesome-quant) ⭐ 30,346 | 🐛 208 | 🌐 HTML | 📅 2026-10-29 :  A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 
-[awesome-quant](https://github.com/thuquant/awesome-quant) ⭐ 5,697 | 🐛 27 | 📅 2026-10-28 :  quant related resources index in China
+[awesome-quant](https://github.com/thuquant/awesome-quant) ⭐ 5,697 | 🐛 26 | 📅 2026-10-29 :  quant related resources index in China
 
 [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) ⭐ 2,454 | 🐛 0 | 🌐 Python | 📅 2025-12-20 :  A curated list of community detection research papers with implementations.
 
-[awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,096 | 🐛 7 | 🌐 Python | 📅 2026-10-26 :  😎 A curated list of robotics libraries and software
+[awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,097 | 🐛 7 | 🌐 Python | 📅 2026-10-26 :  😎 A curated list of robotics libraries and software
 
-[awesome\_time\_series\_in\_python](https://github.com/MaxBenChrist/awesome_time_series_in_python) ⭐ 2,265 | 🐛 9 | 📅 2023-02-10 :  This curated list contains python packages for time series analysis
+[awesome\_time\_series\_in\_python](https://github.com/MaxBenChrist/awesome_time_series_in_python) ⭐ 2,266 | 🐛 9 | 📅 2023-02-10 :  This curated list contains python packages for time series analysis
 
 [awesome-rnn](https://github.com/kjw0612/awesome-rnn) ⭐ 6,211 | 🐛 4 | 📅 2022-02-03 :  Recurrent Neural Network - A curated list of resources dedicated to RNN
 
@@ -547,13 +547,13 @@ Pull requests are welcome!
 
 [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,916 | 🐛 5 | 📅 2020-11-26 :  A curated list of awesome adversarial machine learning resources
 
-[awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,240 | 🐛 26 | 📅 2024-07-31 :  A curated list of awesome curated lists of many topics.
+[awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,238 | 🐛 26 | 📅 2024-07-31 :  A curated list of awesome curated lists of many topics.
 
 [VR-Awesome](https://github.com/Vytek/VR-Awesome) ⭐ 504 | 🐛 1 | 📅 2023-01-23 :  VR Awesome List
 
 [machine-learning-surveys](https://github.com/metrofun/machine-learning-surveys) ⭐ 1,411 | 🐛 3 | 🌐 JavaScript | 📅 2023-01-03 :  A curated list of Machine Learning Surveys, Tutorials and Books.
 
-[awesome-rl](https://github.com/aikorea/awesome-rl) ⭐ 10,025 | 🐛 7 | 📅 2023-05-25 :  Reinforcement learning resources curated
+[awesome-rl](https://github.com/aikorea/awesome-rl) ⭐ 10,029 | 🐛 7 | 📅 2023-05-25 :  Reinforcement learning resources curated
 
 [awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation) ⭐ 3,918 | 🐛 1 | 📅 2026-10-26 :  Awesome Knowledge Distillation
 
@@ -563,21 +563,21 @@ Pull requests are welcome!
 
 [Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) ⭐ 5,046 | 🐛 23 | 📅 2024-07-30 ： An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites
 
-[awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,813 | 🐛 166 | 📅 2026-10-28 :  A topic-centric list of HQ open datasets.
+[awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,843 | 🐛 166 | 📅 2026-10-28 :  A topic-centric list of HQ open datasets.
 
-[awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) ⭐ 6,704 | 🐛 105 | 📅 2026-09-08 :  🔬 A curated list of awesome machine learning strategies & tools in financial market.
+[awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) ⭐ 6,707 | 🐛 108 | 📅 2026-09-08 :  🔬 A curated list of awesome machine learning strategies & tools in financial market.
 
 [Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) ⭐ 1,661 | 🐛 2 | 🌐 Markdown | 📅 2026-08-19 :  A collection of research materials on explainable AI/ML
 
-[Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning) ⭐ 2,022 | 🐛 5 | 📅 2022-09-03 :  FedML - The Research and Production Integrated Federated Learning Library
+[Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning) ⭐ 2,021 | 🐛 4 | 📅 2022-09-03 :  FedML - The Research and Production Integrated Federated Learning Library
 
-[Awesome-AI-Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) ⭐ 1,690 | 🐛 27 | 📅 2026-03-08 :  A curated list of AI security resources inspired by [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,916 | 🐛 5 | 📅 2020-11-26 & [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,522 | 🐛 30 | 📅 2024-08-19.
+[Awesome-AI-Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) ⭐ 1,690 | 🐛 27 | 📅 2026-03-08 :  A curated list of AI security resources inspired by [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,916 | 🐛 5 | 📅 2020-11-26 & [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,524 | 🐛 30 | 📅 2024-08-19.
 
-[awesome-deep-rl](https://github.com/tigerneil/awesome-deep-rl) ⭐ 1,518 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-20 :  For deep RL and the future of AI.
+[awesome-deep-rl](https://github.com/tigerneil/awesome-deep-rl) ⭐ 1,519 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-20 :  For deep RL and the future of AI.
 
-[awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai) ⭐ 1,242 | 🐛 29 | 📅 2021-11-12 :  A repository to curate and summarise research papers related to fashion and e-commerce
+[awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai) ⭐ 1,243 | 🐛 29 | 📅 2021-11-12 :  A repository to curate and summarise research papers related to fashion and e-commerce
 
-[awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai) ⭐ 1,158 | 🐛 44 | 📅 2026-02-06 :  A curated list of Blockchain projects for Artificial Intelligence and Machine Learning
+[awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai) ⭐ 1,159 | 🐛 44 | 📅 2026-02-06 :  A curated list of Blockchain projects for Artificial Intelligence and Machine Learning
 
 [awesome-starcraftAI](https://github.com/SKTBrain/awesome-starcraftAI) ⭐ 647 | 🐛 3 | 📅 2022-02-03 :  A curated list of resources dedicated to StarCraft AI.
 
@@ -591,7 +591,7 @@ Pull requests are welcome!
 
 [awesome-ai](https://github.com/hades217/awesome-ai) ⭐ 554 | 🐛 57 | 📅 2026-10-19 :  A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project)
 
-[500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) ⭐ 37,521 | 🐛 70 | 📅 2026-09-26 :  500 AI Machine learning Deep learning Computer vision NLP Projects with code
+[500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) ⭐ 37,544 | 🐛 70 | 📅 2026-09-26 :  500 AI Machine learning Deep learning Computer vision NLP Projects with code
 
 [knowledge-distillation-papers](https://github.com/lhyfst/knowledge-distillation-papers) ⭐ 767 | 🐛 2 | 📅 2023-02-10 :  knowledge distillation papers
 
@@ -605,16 +605,16 @@ Pull requests are welcome!
 
 [awesome-denovo-papers](https://github.com/asarigun/awesome-denovo-papers) ⭐ 92 | 🐛 0 | 📅 2023-11-21 :  Awesome De novo drugs design papers
 
-[awesome-lidar](https://github.com/szenergy/awesome-lidar) ⭐ 1,361 | 🐛 1 | 📅 2026-10-26 :  Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.
+[awesome-lidar](https://github.com/szenergy/awesome-lidar) ⭐ 1,362 | 🐛 1 | 📅 2026-10-26 :  Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.
 
 [awesome-self-supervised-gnn](https://github.com/ChandlerBang/awesome-self-supervised-gnn) ⭐ 1,727 | 🐛 1 | 🌐 Python | 📅 2024-02-02 :  Papers about pretraining and self-supervised learning on Graph Neural Networks (GNN).
 
-[ai-collection](https://github.com/ai-collection/ai-collection) ⭐ 9,257 | 🐛 26 | 📅 2026-10-25 : The Generative AI Landscape - A Collection of Awesome Generative AI Applications
+[ai-collection](https://github.com/ai-collection/ai-collection) ⭐ 9,257 | 🐛 26 | 📅 2026-10-29 : The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
-[papers-we-love](https://github.com/papers-we-love/papers-we-love) ⭐ 110,991 | 🐛 6 | 🌐 Shell | 📅 2026-09-29 :  Papers from the computer science community to read and discuss.
+[papers-we-love](https://github.com/papers-we-love/papers-we-love) ⭐ 111,026 | 🐛 4 | 🌐 Shell | 📅 2026-10-28 :  Papers from the computer science community to read and discuss.
 
 [Awesome-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-Autonomous-Driving) ⭐ 1,157 | 🐛 1 | 📅 2024-08-19 :  awesome-autonomous-driving
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
